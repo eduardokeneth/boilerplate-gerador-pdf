@@ -1,6 +1,6 @@
 # Boilerplate Gerador de PDF -  NodeJs - Puppeteer
 
-Boilerplate básico feito em NodeJs para gerar PDF a partir de um template HTML.<br><br> Construído com - [NodeJs](https://github.com/nodejs/node). Encima da incível biblioteca [Puppeteer](https://github.com/GoogleChrome/puppeteer).
+Boilerplate básico feito em NodeJs para gerar PDF a partir de um template HTML.<br><br> Construído com - [NodeJs](https://github.com/nodejs/node). Usando a incrível biblioteca [Puppeteer](https://github.com/GoogleChrome/puppeteer).
 
 ## Instalação
 
