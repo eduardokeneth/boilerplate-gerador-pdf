@@ -11,9 +11,9 @@ Clone este repositório:
 git clone https://github.com/eduardokeneth/boilerplate-gerador-pdf
 ```
 
-Execute um npm install para instalar as dependências do package.json
+Execute um npm/yarn install para instalar as dependências do package.json
 ```js
-npm install
+yarn install
 ```
 
 Rode node para gerar o PDF
