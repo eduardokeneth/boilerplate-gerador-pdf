@@ -21,7 +21,7 @@ Rode node para gerar o PDF
 node index.js
 ```
 
-### Observaçaões
+### Observações
 
 Está como default um template em HTML que pode ser alterado, o diretório também possui um arquivo database.json com as variavéis de modificação do template.
 
